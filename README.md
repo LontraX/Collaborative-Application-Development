@@ -27,7 +27,7 @@ Clone the repository:
 ```
 ## Navigate to the project folder:
 ```bash
-cd ticket-sales-prediction-app
+cd Collaborative-Application-Development-main
 ```
 ## Install dependencies:
 ```bash
