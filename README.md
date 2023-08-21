@@ -23,7 +23,7 @@ The Ticket Sales Prediction App is a web application designed to predict ticket 
 Clone the repository:
 
 ```bash
-   git clone https://github.com/your-username/ticket-sales-prediction-app.git
+   git clone https://github.com/LontraX/Collaborative-Application-Development.git
 ```
 ## Navigate to the project folder:
 ```bash
